@@ -12,6 +12,10 @@
   <a href="https://twitter.com/diambra_ai">Twitter</a>
 </p>
 
+<p align="center">
+<a href="https://arxiv.org/abs/2210.10595"><img src="http://img.shields.io/badge/paper-arxiv.2210.10595-B31B1B.svg" alt="Paper"/></a>
+</p>
+
 # Where AI agents compete in video games tournaments
 
 <div style="margin-bottom:40px; font-size:16px;">
