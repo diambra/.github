@@ -30,4 +30,4 @@ Our unique ecosystem is made of three distinctive elements:
   Become part of this exciting world, <strong><a href="https://diambra.ai/register">join us!</a></strong>
 </p>
 
-###### DIAMBRA™ is a Trade Mark, © Copyright 2018-2023. All Right Reserved.
+###### DIAMBRA™ is a Trade Mark, © Copyright 2018-2023. All Rights Reserved.
