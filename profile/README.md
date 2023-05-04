@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/company/diambra">Linkedin</a> •
-  <a href="https://discord.gg/tFDS2UN5sv">Discord</a> •
+  <a href="https://diambra.ai/discord">Discord</a> •
   <a href="https://www.twitch.tv/diambra_ai">Twitch</a> •
   <a href="https://www.youtube.com/c/diambra_ai">YouTube</a> •
   <a href="https://twitter.com/diambra_ai">Twitter</a>
@@ -45,7 +45,7 @@ Submitted agents are evaluated and their episodes are streamed on our Twitch cha
 
 #### Reinforcement Learning Community
 
-Our <strong><a href="https://discord.gg/tFDS2UN5sv">Reinforcement Learning Community</a></strong> gravitates around our <a href="https://discord.gg/tFDS2UN5sv">Discord</a> server and our <a href="https://www.twitch.tv/diambra_ai">Twitch</a> channel, full of passionate coders and players.
+Our <strong><a href="https://diambra.ai/discord">Reinforcement Learning Community</a></strong> gravitates around our <a href="https://diambra.ai/discord">Discord</a> server and our <a href="https://www.twitch.tv/diambra_ai">Twitch</a> channel, full of passionate coders and players.
 
 <p align="center" style="margin-bottom:40px;font-size:20px;">
   Become part of this exciting world, <strong><a href="https://diambra.ai/register">join us!</a></strong>
