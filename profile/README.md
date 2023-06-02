@@ -38,7 +38,9 @@ Submitted agents are evaluated and their episodes are streamed on our Twitch cha
 
 <img src="https://raw.githubusercontent.com/diambra/.github/master/img/arena_agents.jpg" alt="DIAMBRA Arena" width="100%"/>
 
-<strong><a href="https://github.com/diambra/arena">DIAMBRA Arena</a></strong> is our unique suite of Reinforcement Learning environments, built with OpenAI Gym Python interface, easy to use, transforms popular video games into reinforcement learning environments. It comes with a comprehensive <a href="https://docs.diambra.ai">documentation</a> and our <a href="https://github.com/diambra/agents">DIAMBRA Agents</a> repository providing worked examples showing how to train state-of-the-art reinforcement learning agents.
+<strong><a href="https://github.com/diambra/arena">DIAMBRA Arena</a></strong> is our unique suite of Reinforcement Learning environments, built with OpenAI Gym Python interface, easy to use, transforms popular video games into reinforcement learning environments.
+
+It comes with a comprehensive <a href="https://docs.diambra.ai">documentation</a> and our <a href="https://github.com/diambra/agents">DIAMBRA Agents</a> repository providing worked examples showing how to train state-of-the-art reinforcement learning agents.
 
 
 ### Reinforcement Learning Community
