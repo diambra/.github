@@ -19,31 +19,33 @@
 ## Where coders create AI agents to compete in video games tournaments
 
 <div style="margin-bottom:40px; font-size:16px;">
-Our unique ecosystem is made of three distinctive elements: the Competition Platform, the Environments, and the Reinforcement Learning Community.
+Our unique ecosystem is made of three distinctive elements: an exciting Competition Platform, our exclusive Environments and the Agents trained on them, and the amazing Reinforcement Learning Community that is growing with us!
 
-#### Competition Platform
+### Competition Platform
 
 <img src="https://raw.githubusercontent.com/diambra/arena/main/img/leaderboard.jpg" alt="DIAMBRA Leaderboard" width="100%"/>
 
 Our competition platform allows our users to submit their agents and compete with other coders around the globe in epic video games tournaments!
 
-It features a public global leaderboard where users are ranked by the best score achieved by their agents in our different environments. 
+It features a public global leaderboard where users are ranked by the best score achieved by their agents in our different environments.
 
-It also offers them the possibility to unlock cool achievements depending on the performances. 
+It also offers them the possibility to unlock cool achievements depending on the performances.
 
 <img src="https://raw.githubusercontent.com/diambra/arena/main/img/achievements.jpg" alt="DIAMBRA Achievements" width="100%"/>
 
 Submitted agents are evaluated and their episodes are streamed on our Twitch channel, **<a href="https://diambra.ai/register/" target="_blank">try it now!</a>**
 
 
-#### Environments 
+### Environments & Agents
 
-<img src="https://raw.githubusercontent.com/diambra/arena/main/img/github.png" alt="DIAMBRA Arena" width="100%"/>
+<img src="https://raw.githubusercontent.com/diambra/arena/main/img/github.jpg" alt="DIAMBRA Arena" width="100%"/>
 
 <strong><a href="https://github.com/diambra/arena">DIAMBRA Arena</a></strong> is our unique suite of Reinforcement Learning environments, built with OpenAI Gym Python interface, easy to use, transforms popular video games into reinforcement learning environments. It comes with a comprehensive <a href="https://docs.diambra.ai">documentation</a> and our <a href="https://github.com/diambra/agents">DIAMBRA Agents</a> repository providing worked examples showing how to train state-of-the-art reinforcement learning agents.
 
+<img src="https://github.com/diambra/agents/blob/main/img/agents.jpg?raw=true" alt="diambra" width="100%"/>
 
-#### Reinforcement Learning Community
+
+### Reinforcement Learning Community
 
 Our <strong><a href="https://diambra.ai/discord">Reinforcement Learning Community</a></strong> gravitates around our <a href="https://diambra.ai/discord">Discord</a> server and our <a href="https://www.twitch.tv/diambra_ai">Twitch</a> channel, full of passionate coders and players.
 
