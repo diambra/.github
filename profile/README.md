@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://arxiv.org/abs/2210.10595"><img src="http://img.shields.io/badge/paper-arxiv.2210.10595-B31B1B.svg" alt="Paper"/></a>
+<a href="https://arxiv.org/abs/2210.10595"><img src="https://img.shields.io/badge/paper-2210.10595-B31B1B?logo=arxiv" alt="Paper"/></a>
 </p>
 <p align="center">
 <a href="https://docs.diambra.ai/#installation"><img src="https://img.shields.io/badge/supported%20os-linux%20%7C%20win%20%7C%20macOS-blue?logo=docker" alt="Supported OS"/></a>
