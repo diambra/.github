@@ -29,11 +29,11 @@ Our unique ecosystem is made of three distinctive elements: an exciting Competit
 
 <img src="https://raw.githubusercontent.com/diambra/.github/master/img/platform.jpg" alt="DIAMBRA Leaderboard" width="100%"/>
 
-Our competition platform allows our users to submit their agents and compete with other coders around the globe in epic video games tournaments!
+Our competition platform allows you to submit your agents and compete with other coders around the globe in epic video games tournaments!
 
 It features a public global leaderboard where users are ranked by the best score achieved by their agents in our different environments.
 
-It also offers them the possibility to unlock cool achievements depending on the performances.
+It also offers you the possibility to unlock cool achievements depending on the performances.
 
 Submitted agents are evaluated and their episodes are streamed on our Twitch channel, **<a href="https://diambra.ai/register/" target="_blank">try it now!</a>**
 
