@@ -17,6 +17,9 @@
 </p>
 <p align="center">
 <a href="https://docs.diambra.ai/#installation"><img src="https://img.shields.io/badge/supported%20os-linux%20%7C%20win%20%7C%20macOS-blue?logo=docker" alt="Supported OS"/></a>
+<a href="https://docs.diambra.ai/#installation"><img src="https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue?logo=python" alt="Python"/></a>
+</p>
+<p align="center">
 <a href="https://docs.diambra.ai/"><img src="https://img.shields.io/github/last-commit/diambra/docs/main?label=docs%20last%20update&logo=readthedocs" alt="Last Docs Update"/></a>
 </p>
 
