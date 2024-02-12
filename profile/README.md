@@ -58,4 +58,4 @@ Our <strong><a href="https://diambra.ai/discord">Reinforcement Learning Communit
   Become part of this exciting world, <strong><a href="https://diambra.ai/register">join us!</a></strong>
 </p>
 
-###### DIAMBRA, Inc. © Copyright 2018-2023. All Rights Reserved.
+###### DIAMBRA, Inc. © Copyright 2018-2024. All Rights Reserved.
